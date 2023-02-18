@@ -53,3 +53,4 @@ while True:
     plt.imshow(output_img) 
     
     plt.imsave("output_image_%s.jpg" % counter_2, output_img)
+# pomoc
